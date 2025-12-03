@@ -53,3 +53,4 @@ Provides insights for improving road design, traffic control, and public awarene
 Enables data-backed decision-making to reduce accident rates# Road-Accident-Analysis-Dashboard
 
 Screenshot
+Show what the dashboard looks like :https://github.com/pritichaudhari08/Road-Accident-Analysis-Dashboard/blob/main/Road%20Accident%20Project.png
